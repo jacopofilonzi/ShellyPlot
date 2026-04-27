@@ -1,0 +1,12 @@
+[
+    {
+        "fname":"Cover/DoubleTabToggle.js",
+        "title": "Double-Tap to open/close courtain",
+        "description":"Hold to customize the curtain aperture and double tap open/close button to fully open/close te curtain"
+    },
+    {
+        "fname":"Cover/OneTabEdit.js",
+        "title": "Single tap to open/close courtain",
+        "description":"Hold to customize the curtain aperture and press once open/close button to fully open/close te curtain"
+    }
+]
